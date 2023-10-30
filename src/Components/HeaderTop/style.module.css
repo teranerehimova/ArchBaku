@@ -1,0 +1,19 @@
+.headerTop {
+    /* background-color: rgba(1, 107, 56); */
+    background-image: linear-gradient(rgba(1, 107, 56, 0.85), rgba(1, 107, 56,
+                0.85)), url(./HeaderTopPhoto.png);
+    color: white;
+
+}
+
+.contactAndSocial {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.contactInfo {
+    display: flex;
+    gap: 30px;
+}
